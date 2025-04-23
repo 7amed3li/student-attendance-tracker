@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ألوان موجودة مسبقًا -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- ألوان جديدة -->
+    <color name="primary">#5365C3</color> <!-- لون أزرق افتراضي -->
+    <color name="secondary">#FF4081</color> <!-- لون وردي افتراضي -->
+    <color name="success_color">#4CAF50</color>
+    <color name="error_color">#F44336</color>
+
+    <color name="secondaryColor">#FF4081</color>
+
+    <color name="background">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+    <color name="primaryColor">#6200EE</color>
+
+    <color name="backgroundDark">#2C2F3F</color> <!-- لون الخلفية الغامق المستوحى من اللوجو -->
+    <color name="buttonPrimary">#6A5ACD</color> <!-- لون بنفسجي داكن للأزرار -->
+    <color name="buttonPrimaryDark">#5548A0</color>
+    <color name="buttonPrimaryRipple">#8477FF</color> <!-- تأثير الضغط بلون أفتح -->
+
+    <color name="buttonSecondary">#4C57A3</color> <!-- لون أزرق غامق للأزرار الثانوية -->
+    <color name="buttonSecondaryDark">#3A4480</color>
+    <color name="buttonSecondaryRipple">#6678C9</color> <!-- تأثير الضغط بلون أفتح -->
+
+
+
+    <color name="button_color">#334073</color>
+
+
+
+
+</resources>
