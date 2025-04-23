@@ -1,4 +1,4 @@
-📱 Smart Student Attendance Tracker
+![Screenshot 2025-04-23 152703](https://github.com/user-attachments/assets/26414e77-1d2f-4f31-91a4-17eeb22af91a)📱 Smart Student Attendance Tracker
 An all-in-one Android application for managing student attendance using QR codes, local SQLite database, Firebase Realtime Database, and Excel file integration. This project ensures accurate and fast attendance tracking with a user-friendly interface.
 
 🚀 Main Features
@@ -47,6 +47,8 @@ All actions update both local and cloud databases.
 
 📂 Project Structure
 📦 StudentAttendanceApp
+
+📦 StudentAttendanceApp
 ├── app/src/main/java/com/example/test/
 │   ├── MainActivity.java
 │   ├── AdminActivity.java
@@ -57,8 +59,12 @@ All actions update both local and cloud databases.
 │   └── [All UI XML files]
 ├── app/google-services.json
 └── README.md
+
 📸 Screenshots
-(Screenshots will be added soon in the next commit.)
+![Screenshot 2025-04-23 152729](https://github.com/user-attachments/assets/f2089fd7-d863-47ea-b424-d1386f02ede1)
+![![Screenshot 2025-04-23 152723](https://github.com/user-attachments/assets/bb0c54e8-c8ba-4531-b07e-c3f9c9612f20) Screenshot 2025-04-23 152703.png…]()
+![Screenshot 2025-04-23 152645](https://github.com/user-attachments/assets/a73d00ba-3e71-4a7f-a0fc-ccde31f56df0)
+
 
 📄 License
 This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the code with proper attribution.
