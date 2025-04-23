@@ -71,3 +71,6 @@ You are free to use, modify, and distribute the code with proper attribution to 
 [GitHub Profile](https://github.com/7amed3li)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7amed3li&show_icons=true&theme=tokyonight&hide=issues)
+
+> 🔧 Engineered by **HAMED MOHAMED** — Built with precision, passion, and coffee ☕️
+
