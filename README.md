@@ -66,7 +66,8 @@ StudentAttendanceApp
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute the code with proper attribution to **HAMED MOHAMED**.
 
+### ✍️ Made by
+**HAMED MOHAMED**  
+[GitHub Profile](https://github.com/7amed3li)
 
-## ✨ Credits
-Developed with ❤️ by [@7amed3li](https://github.com/7amed3li)  
-Contact: [Open an issue](https://github.com/7amed3li/student-attendance-tracker/issues) for feature requests or questions.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7amed3li&show_icons=true&theme=tokyonight&hide=issues)
