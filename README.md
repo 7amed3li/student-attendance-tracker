@@ -48,11 +48,19 @@ StudentAttendanceApp
 ```
 
 ## 📸 Screenshots
+## 📱 User Interface Screenshots
 
-![Screenshot 1](screenshots/Screenshot_1.png)  
-![Screenshot 2](screenshots/Screenshot_2.png)  
-![Screenshot 3](screenshots/Screenshot_3.png)  
-![Screenshot 4](screenshots/Screenshot_4.png)
+### 🔹 Main Screen
+![Main Screen](https://github.com/user-attachments/assets/e651c45a-5dd3-4ccf-aaa2-1874a781a6b5)
+
+### 🔹 Admin Dashboard
+![Admin Dashboard](https://github.com/user-attachments/assets/bba6d66b-6463-44c5-b641-7e4e64d8634e)
+
+### 🔹 Attendance Details
+![Attendance Details](https://github.com/user-attachments/assets/36d9cd88-66f2-43d4-89f1-2ad13177a0fe)
+
+### 🔹 Student QR Input
+![Student QR Input](https://github.com/user-attachments/assets/0b85c7f2-bf37-4105-94ec-12c580fc44cb)
 
 ## 🪪 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code with proper attribution.
