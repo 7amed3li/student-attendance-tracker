@@ -63,7 +63,7 @@ StudentAttendanceApp
 ![Student QR Input](https://github.com/user-attachments/assets/0b85c7f2-bf37-4105-94ec-12c580fc44cb)
 
 ## 🪪 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code with proper attribution.
+This project is licensed under the [MIT License]([https://opensource.org/licenses/MIT](https://github.com/7amed3li/student-attendance-tracker/blob/master/LICENSE)). You are free to use, modify, and distribute the code with proper attribution.
 
 ## ✨ Credits
 Developed with ❤️ by [@7amed3li](https://github.com/7amed3li)  
