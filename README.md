@@ -126,4 +126,3 @@ You are free to use, modify, and distribute the code with proper attribution to 
 > 🔧 Engineered by **HAMED MOHAMED** — Built with precision, passion, and coffee ☕️
 ```
 
----
